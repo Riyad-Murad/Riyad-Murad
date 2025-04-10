@@ -2,6 +2,8 @@
 
 ## Hi there 👋, I'm Riyad
 
+</div>
+
 # 💫 About Me:
 Full Stack Software Engineer
 
@@ -40,7 +42,7 @@ Full Stack Software Engineer
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
 
-</div>
+
 
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
