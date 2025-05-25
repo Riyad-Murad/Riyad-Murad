@@ -1,6 +1,6 @@
 <div align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=F7DF1E&center=true&vCenter=true&width=435&lines=Hi+there!+I'm+Riyad+Murad;Full+Stack+Software+Engineer;Open+Source+Contributor;Lifelong+Learner" alt="Typing SVG" />
-</div>
+<!-- </div> -->
 
 ---
 
@@ -11,7 +11,7 @@ I'm a passionate Full Stack Software Engineer with a strong foundation in both f
 - 🔭 I’m currently working on enhancing my skills in cloud computing and DevOps.
 - 🌱 I’m learning about Kubernetes and advanced CI/CD pipelines.
 - 💬 Ask me about web development, system design, or DevOps practices.
-- 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/riyad-murad)
+- 📫 Connect with me on LinkedIn: [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/riyad-murad)
 
 ---
 
@@ -92,15 +92,7 @@ Here are some of my notable projects:
 
 *Feel free to explore my repositories for more!*
 
----
-
-### 🏆 Achievements
-
-- 🏅 YOLO
-- ⚡ Quickdraw
-
----
-
+</div>
 
 
 
