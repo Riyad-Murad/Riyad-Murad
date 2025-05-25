@@ -83,16 +83,22 @@ I'm a passionate Full Stack Software Engineer with a strong foundation in both f
 
 ---
 
+<div align="center">
+
 ### 📌 Featured Projects
 
 Here are some of my notable projects:
 
+</div>
+
 - [**Amp Intelligence**](https://github.com/Riyad-Murad/Amp_Intelligence): Amp Intelligence is an IoT and AI-powered platform for smart energy monitoring and optimization. It connects with ESP32 microcontrollers to collect real-time power usage data, providing providers with AI-driven consumption forecasts and clients with personalized plans to optimize their energy usage, reduce costs, and promote sustainability.
 - [**HR System**](https://github.com/Houssien-Zeineddine/HR_system): I contributed to this team project as a communication lead, and developed a workflow for the team members to ensure a smooth and fast implementation of features. I also worked on the GitHub Actions pipelines to ensure seamless deployment of new features through a CI/CD cycle.
 
+<div align="center">
+
 *Feel free to explore my repositories for more!*
 
-<!-- </div> -->
+</div>
 
 
 
