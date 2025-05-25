@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=F7DF1E&center=true&vCenter=true&width=435&lines=Hi+there!+I'm+Riyad+Murad;Full+Stack+Software+Engineer;Open+Source+Contributor;Lifelong+Learner" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=F7DF1E&center=true&vCenter=true&width=435&lines=Hi+there!+I'm+Riyad+Murad;A+Full+Stack+Software+Engineer" alt="Typing SVG" />
 <!-- </div> -->
 
 ---
@@ -8,12 +8,16 @@
 
 I'm a passionate Full Stack Software Engineer with a strong foundation in both front-end and back-end technologies. I enjoy building scalable web applications, exploring new technologies, and contributing to open-source projects.
 
+</div>
+
 - 🔭 I’m currently working on enhancing my skills in cloud computing and DevOps.
 - 🌱 I’m learning about Kubernetes and advanced CI/CD pipelines.
 - 💬 Ask me about web development, system design, or DevOps practices.
 - 📫 Connect with me on LinkedIn: [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/riyad-murad)
 
 ---
+
+<div align="center">
 
 ### 🛠️ Tech Stack
 
@@ -75,11 +79,7 @@ I'm a passionate Full Stack Software Engineer with a strong foundation in both f
 
 ![Dev Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
 
----
-
-### 📫 Connect with Me
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/riyad-murad)
+</div>
 
 ---
 
@@ -87,12 +87,12 @@ I'm a passionate Full Stack Software Engineer with a strong foundation in both f
 
 Here are some of my notable projects:
 
-- [**Project Name**](https://github.com/Riyad-Murad/Amp_Intelligence): Amp Intelligence is an IoT and AI-powered platform for smart energy monitoring and optimization. It connects with ESP32 microcontrollers to collect real-time power usage data, providing providers with AI-driven consumption forecasts and clients with personalized plans to optimize their energy usage, reduce costs, and promote sustainability.
-- [**Another Project**](https://github.com/Houssien-Zeineddine/HR_system): I contributed to this team project as a communication lead, and developed a workflow for the team members to ensure a smooth and fast implementation of features. I also worked on the GitHub Actions pipelines to ensure seamless deployment of new features through a CI/CD cycle.
+- [**Amp Intelligence**](https://github.com/Riyad-Murad/Amp_Intelligence): Amp Intelligence is an IoT and AI-powered platform for smart energy monitoring and optimization. It connects with ESP32 microcontrollers to collect real-time power usage data, providing providers with AI-driven consumption forecasts and clients with personalized plans to optimize their energy usage, reduce costs, and promote sustainability.
+- [**HR System**](https://github.com/Houssien-Zeineddine/HR_system): I contributed to this team project as a communication lead, and developed a workflow for the team members to ensure a smooth and fast implementation of features. I also worked on the GitHub Actions pipelines to ensure seamless deployment of new features through a CI/CD cycle.
 
 *Feel free to explore my repositories for more!*
 
-</div>
+<!-- </div> -->
 
 
 
