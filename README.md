@@ -1,13 +1,22 @@
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=F7DF1E&center=true&vCenter=true&width=435&lines=Hi+there!+I'm+Riyad+Murad;A+Full+Stack+Software+Engineer" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=F7DF1E&center=true&vCenter=true&width=435&lines=Hi+there!+I'm+Riyad+Murad;A+DevOps+and+Cloud+Engineer" alt="Typing SVG" />
 <!-- </div> -->
 
 ---
 
 ### 👨‍💻 About Me
 
-I'm a passionate Full Stack Software Engineer with a strong foundation in both front-end and back-end technologies. I enjoy building scalable web applications, exploring new technologies, and contributing to open-source projects.
+I’m a DevOps & Cloud Engineer with a background in full-stack development and a passion for building scalable, reliable, and secure systems. I specialize in:
 
+- Cloud Infrastructure: AWS (EC2, S3, IAM, VPC, Auto Scaling, CodeDeploy, SQS, ElastiCache)
+
+- DevOps Practices: CI/CD pipelines, infrastructure automation, monitoring, and security
+
+- Containers & Orchestration: Docker & Kubernetes for microservices deployment
+
+- Software Development: Experience with React, Laravel, Node.js, and C#
+
+💡 I enjoy bridging the gap between development and operations, optimizing workflows, and ensuring smooth deployments. Always exploring new technologies, contributing to open source, and sharing knowledge along the way.
 </div>
 
 - 🔭 I’m currently working on enhancing my skills in cloud computing and DevOps.
