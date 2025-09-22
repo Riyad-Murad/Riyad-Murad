@@ -1,6 +1,6 @@
-<!-- <div align="center"> -->
+<div align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=F7DF1E&center=true&vCenter=true&width=435&lines=Hi+there!+I'm+Riyad+Murad;A+DevOps+and+Cloud+Engineer" alt="Typing SVG" />
-<!-- </div> -->
+</div>
 
 ---
 
