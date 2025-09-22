@@ -1,4 +1,4 @@
-<div align="center">
+<!-- <div align="center"> -->
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=F7DF1E&center=true&vCenter=true&width=435&lines=Hi+there!+I'm+Riyad+Murad;A+DevOps+and+Cloud+Engineer" alt="Typing SVG" />
 <!-- </div> -->
 
@@ -17,7 +17,7 @@ I’m a DevOps & Cloud Engineer with a background in full-stack development and 
 - Software Development: Experience with React, Laravel, Node.js, and C#
 
 💡 I enjoy bridging the gap between development and operations, optimizing workflows, and ensuring smooth deployments. Always exploring new technologies, contributing to open source, and sharing knowledge along the way.
-</div>
+<!-- </div> -->
 
 - 🔭 I’m currently working on enhancing my skills in cloud computing and DevOps.
 - 🌱 I’m learning about Kubernetes and advanced CI/CD pipelines.
